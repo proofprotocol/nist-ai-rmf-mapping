@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you reference this specification, please cite it as below."
+title: "PP-SPEC-033: Proof of Efficacy Mapping to the NIST AI Risk Management Framework"
+abstract: >-
+  Maps Proof Protocol proof-of-efficacy metrics and evidence to the outcomes
+  defined in NIST AI 100-1 (AI RMF 1.0), with alignment to state independent
+  verification frameworks in Connecticut, California, Virginia, and Colorado.
+type: software
+authors:
+  - family-names: Ellrod
+    given-names: Craig
+    affiliation: "Nebulonium, Inc. (dba HACKERverse)"
+    email: craig@hackerverse.ai
+version: 0.1.0
+date-released: "2026-09-24"
+license: CC-BY-ND-4.0
+repository-code: "https://github.com/proofprotocol/nist-ai-rmf-mapping"
+url: "https://proofprotocol.io"
+# doi: "10.5281/zenodo.XXXXXXXX"   # add after Zenodo release
+keywords:
+  - proof of efficacy
+  - NIST AI RMF
+  - independent verification
+  - IPEO
+  - AI assurance
+  - adversarial testing
