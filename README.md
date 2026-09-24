@@ -9,6 +9,11 @@
 | Maps to | NIST AI 100-1, Artificial Intelligence Risk Management Framework (AI RMF 1.0), January 26, 2023 |
 | Referenced by | Connecticut Public Act 26-100, Section 47(c)(2)(D) application materials; Virginia HB 797 and Colorado 4 CCR 904-6 comments |
 
+## Cite as
+
+Ellrod, C. (2026). PP-SPEC-033: Proof of Efficacy Mapping to the NIST AI Risk Management Framework.
+Proof Economy Standards Alliance (PESA). https://doi.org/10.5281/zenodo.22944728
+
 ---
 
 ## 1. Purpose
