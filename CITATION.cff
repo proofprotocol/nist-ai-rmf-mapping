@@ -5,7 +5,7 @@ authors:
   - family-names: Ellrod
     given-names: Craig
     affiliation: "Nebulonium, Inc. (HACKERverse)"
-version: "0.1.1"
+version: "0.1.2"
 date-released: 2026-09-24
 doi: 10.5281/zenodo.22944728
 license: CC-BY-ND-4.0
