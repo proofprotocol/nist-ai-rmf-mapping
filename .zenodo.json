@@ -1,0 +1,28 @@
+{
+  "title": "PP-SPEC-033: Proof of Efficacy Mapping to the NIST AI Risk Management Framework",
+  "upload_type": "publication",
+  "creators": [
+    {
+      "name": "Ellrod, Craig",
+      "affiliation": "Nebulonium, Inc. (HACKERverse)"
+    }
+  ],
+  "description": "Maps Proof Protocol proof-of-efficacy metrics and evidence to NIST AI 100-1 (AI RMF 1.0), with alignment to state independent verification frameworks in Connecticut, California, Virginia, and Colorado.",
+  "license": "cc-by-nd-4.0",
+  "access_right": "open",
+  "keywords": [
+    "proof-of-efficacy",
+    "proof-protocol",
+    "nist-ai-rmf",
+    "ai-assurance",
+    "independent-verification"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/proofprotocol/nist-ai-rmf-mapping",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "publication_type": "technicalnote"
+}
