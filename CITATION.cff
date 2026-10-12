@@ -8,7 +8,7 @@ authors:
 version: "0.1.2"
 date-released: 2026-09-24
 doi: 10.5281/zenodo.22944728
-license: CC-BY-ND-4.0
+license-url: "https://github.com/proofprotocol/nist-ai-rmf-mapping/blob/main/LICENSE.md"
 url: "https://proofprotocol.io"
 repository-code: "https://github.com/proofprotocol/nist-ai-rmf-mapping"
 preferred-citation:
@@ -23,4 +23,4 @@ preferred-citation:
     name: "Proof Economy Standards Alliance (PESA)"
   doi: 10.5281/zenodo.22944728
   url: "https://github.com/proofprotocol/nist-ai-rmf-mapping"
-  license: CC-BY-ND-4.0
+  license-url: "https://github.com/proofprotocol/nist-ai-rmf-mapping/blob/main/LICENSE.md"
