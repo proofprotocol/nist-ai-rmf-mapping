@@ -5,7 +5,7 @@
 | Status | DRAFT v0.1 |
 | Author | Craig Ellrod, Nebulonium, Inc. (dba HACKERverse®) |
 | Date | September 24, 2026 |
-| License | CC BY-ND 4.0 |
+| License | CC BY 4.0 |
 | Maps to | NIST AI 100-1, Artificial Intelligence Risk Management Framework (AI RMF 1.0), January 26, 2023 |
 | Referenced by | Connecticut Public Act 26-100, Section 47(c)(2)(D) application materials; Virginia HB 797 and Colorado 4 CCR 904-6 comments |
 
@@ -126,4 +126,4 @@ NIST has stated that AI RMF 1.0 is being revised. This mapping will be updated w
 
 ---
 
-*Proof Protocol · proofprotocol.io · CC BY-ND 4.0*
+*Proof Protocol · proofprotocol.io · CC BY 4.0*
